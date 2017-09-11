@@ -1,5 +1,5 @@
 # AutomationSeleniumWebdrive_no1
-Test Case Automation using Selenium Webdriver and NUnit Framework with Visual Studio 2015
+Test Case Automation using Selenium Webdriver and NUnit Framework with Visual Studio 2015 using Page Object Pattern
 
 Page which will be tested:
 http://ogloszenia.trojmiasto.pl/motoryzacja-sprzedam/
